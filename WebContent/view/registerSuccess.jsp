@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-
+<!-- 가입 정보를 보여준다. -->
 <body>
 	<h1> ${customer.name} registered in successfully.</h1>
 	<ul>

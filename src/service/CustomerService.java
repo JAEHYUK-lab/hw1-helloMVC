@@ -48,6 +48,7 @@ public class CustomerService {
 		return null;
 	}
 
+	//customers HashMap에 값을 저장
 	public Customer register(String id, String password, String name, String gender, String email) {
 		Customer customer = new Customer(id, password, name, gender, email);
 		
